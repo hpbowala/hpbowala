@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Helmini</h1>
-<h3 align="center">A passionate developer, AI enthusiast and undergrad student.</h3>
+<h3 align="center">A passionate developer, AI enthusiast and postgrad student in AI.</h3>
 
 - 📫 How to reach me **helminibowala@gmail.com**
 
