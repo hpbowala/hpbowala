@@ -98,11 +98,3 @@ I aim to engineer AI platforms that are scalable, measurable, and interpretable.
 - Prefer interpretability over opacity  
 - Understand abstractions before scaling  
 
----
-
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
