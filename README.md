@@ -1,5 +1,5 @@
 <h1 align="center">Helmini</h1>
-<h3 align="center">AI Systems Engineer | MSc Artificial Intelligence</h3>
+<h3 align="center">Software Engineer | AI Enthusiast</h3>
 
 <p align="center">
 Designing and building production-grade intelligent systems.
@@ -9,18 +9,19 @@ Designing and building production-grade intelligent systems.
 
 ## About
 
-I am a software engineer and postgraduate AI student focused on building scalable AI systems — not just model demos.
+Software engineer and postgraduate AI student focused on building scalable, interpretable AI systems — not just model demos.
 
-My interests sit at the intersection of:
+Primary interests:
 
 - LLM architectures & agent systems  
 - Retrieval-augmented generation (RAG)  
+- Explainable AI (XAI) & model interpretability  
 - Knowledge graphs & semantic systems  
 - ML evaluation & robustness  
-- Backend systems for AI workloads  
-- Systems design for AI infrastructure  
+- Backend infrastructure for AI workloads  
+- Systems design for AI-native platforms  
 
-I aim to engineer AI platforms, not wrappers.
+I aim to engineer AI platforms that are scalable, measurable, and interpretable.
 
 ---
 
@@ -28,8 +29,11 @@ I aim to engineer AI platforms, not wrappers.
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
 
 ### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -38,17 +42,33 @@ I aim to engineer AI platforms, not wrappers.
 - Model training & fine-tuning  
 - Evaluation pipelines  
 - Experiment reproducibility  
-- RAG pipelines  
+- Retrieval-Augmented Generation (RAG)  
+- Explainable AI (feature attribution, attention analysis, post-hoc interpretability)  
 
-### Backend & APIs
+---
+
+### Backend & API Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-- RESTful API architecture  
-- Async service design  
+- RESTful & async service design  
 - Model serving & inference endpoints  
+- AI microservice orchestration  
 - Database-backed AI services  
+
+---
+
+### Frontend for AI Interfaces
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+- AI dashboards & experiment tracking UIs  
+- Realtime streaming interfaces  
+- Full-stack TypeScript architectures  
+
+---
 
 ### Data & Knowledge Systems
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -65,23 +85,9 @@ I aim to engineer AI platforms, not wrappers.
 
 - Designing AI-native backend architectures  
 - Building evaluation-first ML workflows  
+- Improving interpretability and transparency in LLM systems  
 - Studying scalable distributed system patterns  
-- Exploring system-level optimization for inference  
-
----
-
-## Selected Work
-
-(Replace with your strongest 3–4 projects.)
-
-### AI Retrieval System
-End-to-end RAG pipeline with semantic search, embedding store, evaluation metrics, and production API layer.
-
-### Knowledge Graph Query Engine
-RDF data modeling + SPARQL query interface integrated with ML components.
-
-### Model Evaluation Framework
-Reusable benchmarking pipeline for LLM outputs with reproducibility tracking.
+- System-level inference optimization  
 
 ---
 
@@ -89,10 +95,11 @@ Reusable benchmarking pipeline for LLM outputs with reproducibility tracking.
 
 - Prefer systems over scripts  
 - Prefer evaluation over hype  
-- Prefer robustness over novelty  
-- Understand abstractions before scaling them  
+- Prefer interpretability over opacity  
+- Understand abstractions before scaling  
 
 ---
+
 
 ## GitHub Stats
 
