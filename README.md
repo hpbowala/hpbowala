@@ -1,4 +1,3 @@
-<h1 align="center">Helmini</h1>
 <h3 align="center">Software Engineer | AI Enthusiast</h3>
 
 <p align="center">
